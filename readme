@@ -1,0 +1,23 @@
+To run this project, make sure you have SQL Server / SQL Server Express, the Windows Phone tools and the Azure tools both installed and configured.
+
+Then, follow these steps:
+
+1. Configure SQL Server to run in Mixed Mode (I'm using an sa pasword of Pass@word1 in my sample)
+
+2. Install the AdventureWorksLT2008R2 database from http://msftdbprodsamples.codeplex.com/releases/view/55926
+
+3. Download the ZIP file and open the solution
+
+4. Update the EntityModel class in the Cloud project to use your connection string (might need to hand-edit the web.config to do this).
+
+5. Complie everything
+
+6. Press "F5" to start the Cloud project.
+
+7. Right-click on the Windows Phone project and choose "Debug -> Start New Instance".
+
+You should see the sample pop up. 
+
+The Cloud project exposes the AdventureWorks database as an OData source, so we can easily add a new ServiceReference to that OData endpoint in our Phone project. Using the classes generated there, we call out to the service to retrieve a list of products and bind them to a listbox.
+
+Just a note - there is a bug in Blend where DataServiceCollection<T> does not work with design-time data, so I'm exposing a custom ObservableCollection<T> based on the DataServiceCollection<T> just for design-time data support.
