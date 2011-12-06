@@ -1,0 +1,1804 @@
+<CrazyAzurePhoneProject:PageData xmlns:CrazyAzurePhoneProject="clr-namespace:CrazyAzurePhoneProject" xmlns:CrazyAzurePhoneProject_AdventureWorks="clr-namespace:CrazyAzurePhoneProject.AdventureWorks" xmlns:System="clr-namespace:System;assembly=mscorlib">
+	<CrazyAzurePhoneProject:PageData.Products>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum curabitur aenean cras aliquam" ModifiedDate="12/05/2011 21:57:49" Name="Mauris maecenas duis praesent phasellus" ProductID="15" ProductNumber="Elit integer nullam" SellStartDate="12/05/2011 21:57:49" Size="Egestas netus tortor turpis" ThumbnailPhotoFileName="Fermentum nulla euismod porta">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Dolor quam mollis montes lobortis" ModifiedDate="12/05/2011 21:57:49" Name="Lacinia nostra" ProductModelID="38">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Nascetur porttitor fames" ModifiedDate="12/05/2011 21:57:49" ProductModelID="16" ProductDescriptionID="52"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Laoreet quis" ModifiedDate="12/05/2011 21:57:49" ProductModelID="36" ProductDescriptionID="29"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Felis natoque vestibulum ipsum pharetra" ModifiedDate="12/05/2011 21:57:49" ProductModelID="28" ProductDescriptionID="22"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Vestibulum tincidunt sit vel tristique" ModifiedDate="12/05/2011 21:57:49" ProductModelID="39" ProductDescriptionID="76"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Ornare adipiscing placerat ultricies" ModifiedDate="12/05/2011 21:57:49" ProductModelID="70" ProductDescriptionID="88"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Venenatis vulputate" ModifiedDate="12/05/2011 21:57:49" Name="Posuere nam platea justo" ProductID="88" ProductNumber="Lacus primis" SellStartDate="12/05/2011 21:57:49" Size="Lorem parturient pulvinar sed urna" ThumbnailPhotoFileName="Dis est potenti cras hac"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum leo" ModifiedDate="12/05/2011 21:57:49" Name="Rutrum sapien" ProductID="68" ProductNumber="Sagittis magna duis" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum curabitur phasellus" ThumbnailPhotoFileName="Mus semper senectus pretium consequat"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing convallis sociosqu nunc suscipit" ModifiedDate="12/05/2011 21:57:49" Name="Parturient massa dignissim vestibulum amet" ProductID="81" ProductNumber="Vestibulum torquent ultrices vehicula" SellStartDate="12/05/2011 21:57:49" Size="Volutpat nec sociis maecenas" ThumbnailPhotoFileName="Taciti adipiscing"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Rhoncus tellus metus ante" ModifiedDate="12/05/2011 21:57:49" Name="Arcu parturient" ProductID="93" ProductNumber="Tempor tempus" SellStartDate="12/05/2011 21:57:49" Size="Sodales morbi elementum neque" ThumbnailPhotoFileName="Non netus nulla porta tortor"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Turpis varius diam viverra" ModifiedDate="12/05/2011 21:57:49" Name="Purus aenean eget facilisis" ProductID="20" ProductNumber="Praesent mauris" SellStartDate="12/05/2011 21:57:49" Size="Risus per" ThumbnailPhotoFileName="Accumsan bibendum fermentum velit aliquam"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Class consequat nullam" ProductCategoryID="85">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Curae adipiscing" ProductCategoryID="93"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Donec nam integer nunc" ProductCategoryID="30"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Parturient sed convallis" ProductCategoryID="19"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Amet etiam dis vestibulum" ProductCategoryID="79"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Quisque ante" ProductCategoryID="73"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Accumsan vivamus dignissim aptent" ProductCategoryID="77"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Auctor arcu vestibulum est fusce" ModifiedDate="12/05/2011 21:57:49" Name="Diam adipiscing elementum" ProductID="29" ProductNumber="Bibendum hac dictumst eget parturient" SellStartDate="12/05/2011 21:57:49" Size="Facilisis elit leo" ThumbnailPhotoFileName="Congue lorem fermentum"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum vestibulum aliquam eleifend enim" ModifiedDate="12/05/2011 21:57:49" Name="Aliquet erat eros" ProductID="45" ProductNumber="Facilisi adipiscing" SellStartDate="12/05/2011 21:57:49" Size="Blandit commodo mus nec" ThumbnailPhotoFileName="Parturient cursus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Morbi dictum vestibulum vestibulum fringilla" ModifiedDate="12/05/2011 21:57:49" Name="Conubia lectus" ProductID="20" ProductNumber="Nulla adipiscing nibh non libero" SellStartDate="12/05/2011 21:57:49" Size="Nisi habitasse" ThumbnailPhotoFileName="Ligula faucibus litora"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Hendrerit himenaeos" ModifiedDate="12/05/2011 21:57:49" Name="Luctus parturient cubilia imperdiet magnis" ProductID="86" ProductNumber="Nisl per proin malesuada" SellStartDate="12/05/2011 21:57:49" Size="Nunc dapibus" ThumbnailPhotoFileName="Egestas odio sed mattis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum habitant euismod augue" ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum mauris feugiat orci inceptos" ProductID="35" ProductNumber="Sem gravida interdum" SellStartDate="12/05/2011 21:57:49" Size="Adipiscing parturient iaculis" ThumbnailPhotoFileName="Penatibus pede"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="19" SalesOrderID="33" SalesOrderDetailID="92">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Aptent sed fringilla" ModifiedDate="12/05/2011 21:57:49" Name="Quisque vestibulum vitae" ProductID="96" ProductNumber="Dictumst auctor vivamus aliquam congue" SellStartDate="12/05/2011 21:57:49" Size="Cursus dictum aliquet sem class" ThumbnailPhotoFileName="Enim curae donec vestibulum erat"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Lectus blandit libero eros" CreditCardApprovalCode="Sit adipiscing ligula" CustomerID="68" Comment="Etiam habitasse commodo" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Vel eleifend hendrerit parturient litora" SalesOrderID="21" ShipMethod="Habitant vestibulum" SalesOrderNumber="Facilisi faucibus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="73" SalesOrderID="25" SalesOrderDetailID="84">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Himenaeos imperdiet nibh" ModifiedDate="12/05/2011 21:57:49" Name="Nam sed" ProductID="92" ProductNumber="Malesuada inceptos nisi interdum conubia" SellStartDate="12/05/2011 21:57:49" Size="Dis fusce penatibus" ThumbnailPhotoFileName="Cubilia lorem est dapibus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Morbi luctus egestas" CreditCardApprovalCode="Magnis lobortis gravida iaculis lacinia" CustomerID="63" Comment="Euismod hac nulla feugiat nisl" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Laoreet natoque nascetur" SalesOrderID="68" ShipMethod="Mollis augue pharetra posuere" SalesOrderNumber="Mattis leo proin nunc mauris"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="57" SalesOrderID="52" SalesOrderDetailID="95">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum potenti adipiscing odio orci" ModifiedDate="12/05/2011 21:57:49" Name="Pede pretium parturient" ProductID="60" ProductNumber="Vestibulum montes" SellStartDate="12/05/2011 21:57:49" Size="Quam quis" ThumbnailPhotoFileName="Dolor placerat nostra"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Rhoncus vestibulum sodales mus urna" CreditCardApprovalCode="Adipiscing ornare viverra platea" CustomerID="91" Comment="Pulvinar nec" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Primis parturient vestibulum non" SalesOrderID="19" ShipMethod="Tincidunt vestibulum" SalesOrderNumber="Porttitor per"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="33" SalesOrderID="58" SalesOrderDetailID="12">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Cras tristique sagittis" ModifiedDate="12/05/2011 21:57:49" Name="Adipiscing duis aliquam parturient senectus" ProductID="13" ProductNumber="Sociosqu nunc fames integer" SellStartDate="12/05/2011 21:57:49" Size="Sed felis ultricies suscipit" ThumbnailPhotoFileName="Quisque venenatis amet"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Rutrum vestibulum vulputate vivamus sapien" CreditCardApprovalCode="Aliquam sem phasellus aliquet" CustomerID="62" Comment="Torquent curabitur ultrices" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Ante ipsum" SalesOrderID="17" ShipMethod="Sit sociis" SalesOrderNumber="Semper blandit vehicula consequat"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="30" SalesOrderID="91" SalesOrderDetailID="63">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Taciti arcu vel justo" ModifiedDate="12/05/2011 21:57:49" Name="Volutpat nam sed tellus" ProductID="19" ProductNumber="Diam dis eget commodo vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Convallis tempor est lacus elit" ThumbnailPhotoFileName="Lorem magna massa adipiscing"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Tempus conubia parturient maecenas enim" CreditCardApprovalCode="Dignissim eros elementum" CustomerID="41" Comment="Erat praesent" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Cubilia metus" SalesOrderID="48" ShipMethod="Dapibus vestibulum neque" SalesOrderNumber="Facilisis morbi vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing purus risus" ModifiedDate="12/05/2011 21:57:49" Name="Varius feugiat fringilla hac" ProductID="45" ProductNumber="Vestibulum vestibulum adipiscing porta" SellStartDate="12/05/2011 21:57:49" Size="Sed fringilla habitasse" ThumbnailPhotoFileName="Ante hendrerit arcu vestibulum">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Mollis nec" ModifiedDate="12/05/2011 21:57:49" Name="Montes non conubia cubilia" ProductModelID="72">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Dapibus diam" ModifiedDate="12/05/2011 21:57:49" ProductModelID="12" ProductDescriptionID="54"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Egestas parturient" ModifiedDate="12/05/2011 21:57:49" ProductModelID="82" ProductDescriptionID="26"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Pharetra euismod nostra eget ultricies" ModifiedDate="12/05/2011 21:57:49" ProductModelID="79" ProductDescriptionID="93"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Ornare elit" ModifiedDate="12/05/2011 21:57:49" ProductModelID="26" ProductDescriptionID="79"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Vestibulum dolor per" ModifiedDate="12/05/2011 21:57:49" ProductModelID="69" ProductDescriptionID="77"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Placerat enim erat" ModifiedDate="12/05/2011 21:57:49" Name="Platea vestibulum pulvinar feugiat" ProductID="18" ProductNumber="Gravida iaculis lacinia" SellStartDate="12/05/2011 21:57:49" Size="Eros venenatis" ThumbnailPhotoFileName="Primis fames adipiscing sed sagittis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nibh vulputate laoreet natoque felis" ModifiedDate="12/05/2011 21:57:49" Name="Curabitur ipsum parturient rutrum sapien" ProductID="44" ProductNumber="Phasellus justo" SellStartDate="12/05/2011 21:57:49" Size="Nisi semper sociis" ThumbnailPhotoFileName="Consequat senectus vestibulum nisl"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum adipiscing sem parturient" ModifiedDate="12/05/2011 21:57:49" Name="Sit vestibulum posuere vestibulum sociosqu" ProductID="11" ProductNumber="Adipiscing vel nam nunc convallis" SellStartDate="12/05/2011 21:57:49" Size="Dignissim sed odio elementum potenti" ThumbnailPhotoFileName="Lacus lorem facilisis pretium"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Rhoncus orci" ModifiedDate="12/05/2011 21:57:49" Name="Suscipit magna taciti dis" ProductID="44" ProductNumber="Fermentum parturient fringilla massa habitasse" SellStartDate="12/05/2011 21:57:49" Size="Pede torquent est" ThumbnailPhotoFileName="Vestibulum tellus ultrices vehicula vestibulum"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Volutpat hac metus tempor maecenas" ModifiedDate="12/05/2011 21:57:49" Name="Tempus morbi" ProductID="59" ProductNumber="Tortor neque adipiscing quam sodales" SellStartDate="12/05/2011 21:57:49" Size="Parturient leo netus turpis" ThumbnailPhotoFileName="Praesent nulla viverra quis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Gravida habitasse aenean mauris leo" ProductCategoryID="94">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Parturient hendrerit himenaeos" ProductCategoryID="14"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Velit vestibulum nullam vestibulum" ProductCategoryID="96"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Accumsan mus" ProductCategoryID="92"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Nec nibh bibendum" ProductCategoryID="18"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Vitae adipiscing dictumst non" ProductCategoryID="48"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Aptent parturient imperdiet iaculis nisi" ProductCategoryID="11"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum class curae" ModifiedDate="12/05/2011 21:57:49" Name="Auctor eleifend nisl malesuada" ProductID="67" ProductNumber="Donec etiam lacinia laoreet per" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum congue facilisi natoque sed" ThumbnailPhotoFileName="Posuere fusce"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Lorem adipiscing" ModifiedDate="12/05/2011 21:57:49" Name="Morbi penatibus nunc potenti odio" ProductID="94" ProductNumber="Pretium sem sit" SellStartDate="12/05/2011 21:57:49" Size="Vel porttitor rhoncus parturient vestibulum" ThumbnailPhotoFileName="Nam sodales cursus vestibulum"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Orci pede quam dictum tincidunt" ModifiedDate="12/05/2011 21:57:49" Name="Viverra aliquam faucibus nulla integer" ProductID="14" ProductNumber="Adipiscing lectus proin libero ligula" SellStartDate="12/05/2011 21:57:49" Size="Quis urna quisque litora" ThumbnailPhotoFileName="Sed parturient"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vivamus aliquam habitant" ModifiedDate="12/05/2011 21:57:49" Name="Cras duis inceptos" ProductID="60" ProductNumber="Vestibulum nunc vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Luctus amet dis" ThumbnailPhotoFileName="Ante magnis est"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Hac aliquet mattis augue blandit" ModifiedDate="12/05/2011 21:57:49" Name="Adipiscing tristique leo mus" ProductID="43" ProductNumber="Commodo interdum" SellStartDate="12/05/2011 21:57:49" Size="Mauris arcu" ThumbnailPhotoFileName="Lobortis nascetur"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="69" SalesOrderID="59" SalesOrderDetailID="60">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Accumsan varius bibendum mus" ModifiedDate="12/05/2011 21:57:49" Name="Parturient urna" ProductID="90" ProductNumber="Purus hendrerit dictumst" SellStartDate="12/05/2011 21:57:49" Size="Aenean cras aliquam duis" ThumbnailPhotoFileName="Himenaeos nec vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Non eleifend mauris per facilisi" CreditCardApprovalCode="Habitant velit nunc" CustomerID="35" Comment="Faucibus vestibulum sed risus" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Sem integer adipiscing" SalesOrderID="93" ShipMethod="Vel inceptos" SalesOrderNumber="Imperdiet sit"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="33" SalesOrderID="96" SalesOrderDetailID="51">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vitae malesuada amet quisque nam" ModifiedDate="12/05/2011 21:57:49" Name="Vivamus class parturient" ProductID="71" ProductNumber="Nullam vestibulum penatibus" SellStartDate="12/05/2011 21:57:49" Size="Ante porttitor curae interdum" ThumbnailPhotoFileName="Sed donec aptent"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Tincidunt aliquam vestibulum aliquet blandit" CreditCardApprovalCode="Arcu tristique" CustomerID="18" Comment="Lobortis etiam adipiscing" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Diam auctor fusce" SalesOrderID="93" ShipMethod="Ultricies dis venenatis" SalesOrderNumber="Congue eget elit"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="58" SalesOrderID="26" SalesOrderDetailID="98">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Est lorem cursus" ModifiedDate="12/05/2011 21:57:49" Name="Dictum vulputate lectus" ProductID="51" ProductNumber="Hac commodo libero" SellStartDate="12/05/2011 21:57:49" Size="Ligula parturient" ThumbnailPhotoFileName="Litora luctus nascetur morbi"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Enim magnis pharetra" CreditCardApprovalCode="Nulla eros" CustomerID="73" Comment="Placerat erat conubia" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Proin mattis curabitur vestibulum cubilia" SalesOrderID="69" ShipMethod="Dapibus nibh nisi" SalesOrderNumber="Augue leo pulvinar mauris"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="13" SalesOrderID="47" SalesOrderDetailID="16">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nisl mollis nunc" ModifiedDate="12/05/2011 21:57:49" Name="Odio mus" ProductID="44" ProductNumber="Montes orci phasellus egestas" SellStartDate="12/05/2011 21:57:49" Size="Dolor nostra sagittis senectus" ThumbnailPhotoFileName="Vestibulum fames sociosqu ornare nec"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Adipiscing felis suscipit" CreditCardApprovalCode="Platea primis" CustomerID="14" Comment="Pede non parturient vestibulum" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Ipsum justo consequat rutrum" SalesOrderID="81" ShipMethod="Quis dignissim lacus" SalesOrderNumber="Convallis quam euismod"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="22" SalesOrderID="10" SalesOrderDetailID="88">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sapien feugiat" ModifiedDate="12/05/2011 21:57:49" Name="Torquent lorem semper gravida per" ProductID="68" ProductNumber="Sed urna magna ultrices" SellStartDate="12/05/2011 21:57:49" Size="Sem sociis cras taciti vehicula" ThumbnailPhotoFileName="Elementum tellus vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Massa metus duis volutpat" CreditCardApprovalCode="Facilisis parturient lacinia tempor" CustomerID="28" Comment="Sit adipiscing iaculis" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Nunc fermentum tempus tortor" SalesOrderID="33" ShipMethod="Nam morbi natoque" SalesOrderNumber="Vel laoreet amet"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Posuere dis" ModifiedDate="12/05/2011 21:57:49" Name="Est turpis hac" ProductID="75" ProductNumber="Lorem sem mauris tristique" SellStartDate="12/05/2011 21:57:49" Size="Proin non augue elementum per" ThumbnailPhotoFileName="Parturient ante arcu facilisis dolor">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Mauris nascetur vestibulum commodo" ModifiedDate="12/05/2011 21:57:49" Name="Conubia mollis facilisis vitae" ProductModelID="73">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Leo amet" ModifiedDate="12/05/2011 21:57:49" ProductModelID="82" ProductDescriptionID="10"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Cubilia ante arcu" ModifiedDate="12/05/2011 21:57:49" ProductModelID="67" ProductDescriptionID="37"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Fermentum montes diam eget class" ModifiedDate="12/05/2011 21:57:49" ProductModelID="95" ProductDescriptionID="78"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Fringilla dapibus nostra habitasse" ModifiedDate="12/05/2011 21:57:49" ProductModelID="27" ProductDescriptionID="48"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Pharetra curae mus" ModifiedDate="12/05/2011 21:57:49" ProductModelID="41" ProductDescriptionID="66"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Donec egestas" ModifiedDate="12/05/2011 21:57:49" Name="Placerat adipiscing ornare nec" ProductID="52" ProductNumber="Etiam hendrerit platea" SellStartDate="12/05/2011 21:57:49" Size="Primis fusce elit" ThumbnailPhotoFileName="Rutrum sapien euismod lorem"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Semper morbi nulla feugiat" ModifiedDate="12/05/2011 21:57:49" Name="Himenaeos pulvinar" ProductID="85" ProductNumber="Sociis gravida sagittis" SellStartDate="12/05/2011 21:57:49" Size="Proin enim erat iaculis" ThumbnailPhotoFileName="Imperdiet senectus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Parturient sociosqu taciti" ModifiedDate="12/05/2011 21:57:49" Name="Eros vestibulum non tellus" ProductID="88" ProductNumber="Lacinia nibh augue dolor" SellStartDate="12/05/2011 21:57:49" Size="Suscipit fames nisi vestibulum" ThumbnailPhotoFileName="Malesuada penatibus nisl nunc"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing tempor tempus porttitor" ModifiedDate="12/05/2011 21:57:49" Name="Felis laoreet per odio" ProductID="22" ProductNumber="Ipsum orci parturient pede" SellStartDate="12/05/2011 21:57:49" Size="Quam torquent tincidunt" ThumbnailPhotoFileName="Justo tortor"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum quis ultrices" ModifiedDate="12/05/2011 21:57:49" Name="Urna sed" ProductID="66" ProductNumber="Vehicula cras lacus" SellStartDate="12/05/2011 21:57:49" Size="Turpis vestibulum duis" ThumbnailPhotoFileName="Varius volutpat aenean"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Diam potenti" ProductCategoryID="10">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum eget adipiscing" ProductCategoryID="13"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Maecenas varius parturient" ProductCategoryID="99"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Himenaeos leo aenean praesent mus" ProductCategoryID="60"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Imperdiet pretium" ProductCategoryID="18"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Nec elit vestibulum" ProductCategoryID="14"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Rhoncus malesuada enim mauris" ProductCategoryID="45"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Erat nullam aptent" ModifiedDate="12/05/2011 21:57:49" Name="Sodales eros" ProductID="17" ProductNumber="Accumsan bibendum nibh" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum auctor non nisi dictumst" ThumbnailPhotoFileName="Adipiscing congue penatibus viverra"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Cursus aliquam" ModifiedDate="12/05/2011 21:57:49" Name="Neque porttitor parturient netus nisl" ProductID="52" ProductNumber="Per sed integer" SellStartDate="12/05/2011 21:57:49" Size="Tincidunt dictum" ThumbnailPhotoFileName="Sem quisque vivamus tristique"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Eleifend nulla aliquam ultricies lectus" ModifiedDate="12/05/2011 21:57:49" Name="Aliquet facilisi porta faucibus nunc" ProductID="23" ProductNumber="Vestibulum habitant vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Sit inceptos interdum libero" ThumbnailPhotoFileName="Purus vel odio venenatis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Lobortis orci nam pede" ModifiedDate="12/05/2011 21:57:49" Name="Ligula sed quam vulputate curabitur" ProductID="82" ProductNumber="Phasellus adipiscing litora risus parturient" SellStartDate="12/05/2011 21:57:49" Size="Blandit consequat vestibulum quis vestibulum" ThumbnailPhotoFileName="Adipiscing dis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Urna convallis" ModifiedDate="12/05/2011 21:57:49" Name="Velit luctus" ProductID="78" ProductNumber="Cras parturient dignissim duis est" SellStartDate="12/05/2011 21:57:49" Size="Elementum magnis mattis vestibulum" ThumbnailPhotoFileName="Hac nunc"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="71" SalesOrderID="15" SalesOrderDetailID="53">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nunc nullam adipiscing amet" ModifiedDate="12/05/2011 21:57:49" Name="Natoque ultricies parturient sit aptent" ProductID="80" ProductNumber="Ante arcu vel nam" SellStartDate="12/05/2011 21:57:49" Size="Auctor venenatis congue vulputate posuere" ThumbnailPhotoFileName="Potenti sed"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Curabitur phasellus" CreditCardApprovalCode="Consequat maecenas vestibulum convallis" CustomerID="10" Comment="Magna cursus" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Pretium praesent accumsan dis dignissim" SalesOrderID="50" ShipMethod="Dictumst fermentum diam" SalesOrderNumber="Elementum bibendum vestibulum dictum facilisis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="46" SalesOrderID="72" SalesOrderDetailID="43">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing massa" ModifiedDate="12/05/2011 21:57:49" Name="Parturient eget" ProductID="93" ProductNumber="Lectus vestibulum eleifend" SellStartDate="12/05/2011 21:57:49" Size="Rhoncus elit sodales facilisi" ThumbnailPhotoFileName="Viverra metus vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Libero enim ligula morbi" CreditCardApprovalCode="Aliquam est eros nibh" CustomerID="54" Comment="Adipiscing parturient erat litora faucibus" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Fringilla vestibulum" SalesOrderID="63" ShipMethod="Adipiscing habitant habitasse hendrerit" SalesOrderNumber="Vestibulum hac"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="74" SalesOrderID="39" SalesOrderDetailID="31">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Luctus neque" ModifiedDate="12/05/2011 21:57:49" Name="Netus magnis inceptos nulla nisi" ProductID="61" ProductNumber="Porta leo parturient" SellStartDate="12/05/2011 21:57:49" Size="Integer quisque vestibulum purus" ThumbnailPhotoFileName="Interdum mus mattis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Lobortis vestibulum nec" CreditCardApprovalCode="Nascetur himenaeos pharetra nunc aliquet" CustomerID="30" Comment="Vivamus aliquam mauris non nisl" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Imperdiet malesuada" SalesOrderID="37" ShipMethod="Vestibulum odio" SalesOrderNumber="Blandit per adipiscing parturient sed"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="47" SalesOrderID="49" SalesOrderDetailID="85">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Commodo vestibulum orci conubia cubilia" ModifiedDate="12/05/2011 21:57:49" Name="Mollis placerat risus dapibus pede" ProductID="17" ProductNumber="Adipiscing egestas" SellStartDate="12/05/2011 21:57:49" Size="Quam pulvinar sagittis velit penatibus" ThumbnailPhotoFileName="Porttitor vitae class parturient"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Montes euismod sem feugiat sit" CreditCardApprovalCode="Tincidunt curae tristique vestibulum" CustomerID="84" Comment="Senectus vel" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Gravida nostra donec quis etiam" SalesOrderID="30" ShipMethod="Platea fusce primis lorem" SalesOrderNumber="Nam ultricies iaculis ornare"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="61" SalesOrderID="66" SalesOrderDetailID="85">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sed lacinia" ModifiedDate="12/05/2011 21:57:49" Name="Urna venenatis sociosqu" ProductID="37" ProductNumber="Dis est vulputate suscipit" SellStartDate="12/05/2011 21:57:49" Size="Morbi cras" ThumbnailPhotoFileName="Nulla hac leo"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Laoreet curabitur torquent rutrum duis" CreditCardApprovalCode="Semper natoque adipiscing consequat" CustomerID="43" Comment="Sapien mus vestibulum phasellus" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Nec ultrices convallis posuere nunc" SalesOrderID="29" ShipMethod="Sociis taciti potenti" SalesOrderNumber="Amet dignissim"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sed fames fermentum vehicula" ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum sem sit" ProductID="94" ProductNumber="Nunc odio tincidunt" SellStartDate="12/05/2011 21:57:49" Size="Nunc nam hendrerit blandit" ThumbnailPhotoFileName="Sed luctus">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Porta ultricies" ModifiedDate="12/05/2011 21:57:49" Name="Nam parturient facilisi" ProductModelID="23">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Sed feugiat dis" ModifiedDate="12/05/2011 21:57:49" ProductModelID="32" ProductDescriptionID="25"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Duis nunc gravida" ModifiedDate="12/05/2011 21:57:49" ProductModelID="53" ProductDescriptionID="87"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Iaculis lacinia est faucibus venenatis" ModifiedDate="12/05/2011 21:57:49" ProductModelID="20" ProductDescriptionID="44"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Habitant amet vestibulum" ModifiedDate="12/05/2011 21:57:49" ProductModelID="56" ProductDescriptionID="24"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Ante hac vestibulum leo" ModifiedDate="12/05/2011 21:57:49" ProductModelID="74" ProductDescriptionID="80"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Arcu vulputate laoreet congue diam" ModifiedDate="12/05/2011 21:57:49" Name="Cursus dictum curabitur phasellus" ProductID="80" ProductNumber="Mus adipiscing" SellStartDate="12/05/2011 21:57:49" Size="Nec inceptos" ThumbnailPhotoFileName="Purus parturient risus vestibulum"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Eget velit elit enim consequat" ModifiedDate="12/05/2011 21:57:49" Name="Non convallis" ProductID="96" ProductNumber="Lectus vestibulum dignissim elementum erat" SellStartDate="12/05/2011 21:57:49" Size="Eros interdum libero vitae" ThumbnailPhotoFileName="Lobortis facilisis per"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sed nascetur ligula pharetra fermentum" ModifiedDate="12/05/2011 21:57:49" Name="Litora placerat luctus" ProductID="50" ProductNumber="Natoque sem adipiscing posuere fringilla" SellStartDate="12/05/2011 21:57:49" Size="Habitasse sit parturient hendrerit" ThumbnailPhotoFileName="Himenaeos vestibulum magnis imperdiet malesuada"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum class potenti" ModifiedDate="12/05/2011 21:57:49" Name="Pretium rhoncus sodales curae" ProductID="14" ProductNumber="Viverra pulvinar vel" SellStartDate="12/05/2011 21:57:49" Size="Mattis adipiscing donec" ThumbnailPhotoFileName="Nibh penatibus aliquam"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Etiam sagittis nam integer fusce" ModifiedDate="12/05/2011 21:57:49" Name="Mauris parturient lorem" ProductID="73" ProductNumber="Sed morbi nisi senectus" SellStartDate="12/05/2011 21:57:49" Size="Sociosqu quisque porttitor" ThumbnailPhotoFileName="Mollis nulla nisl suscipit dis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Diam vel fringilla volutpat" ProductCategoryID="39">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Eget maecenas elit vestibulum enim" ProductCategoryID="28"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Habitasse praesent nam sed" ProductCategoryID="57"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Erat pretium dis felis" ProductCategoryID="87"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Tellus ipsum" ProductCategoryID="51"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Adipiscing rhoncus parturient est sodales" ProductCategoryID="71"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Eros accumsan bibendum hendrerit" ProductCategoryID="52"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Himenaeos vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Nibh viverra hac" ProductID="78" ProductNumber="Nisi dictumst justo" SellStartDate="12/05/2011 21:57:49" Size="Aliquam imperdiet leo tempor" ThumbnailPhotoFileName="Mus malesuada vestibulum nisl"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Tempus nunc penatibus nec tortor" ModifiedDate="12/05/2011 21:57:49" Name="Odio integer" ProductID="34" ProductNumber="Lacus quisque non" SellStartDate="12/05/2011 21:57:49" Size="Turpis orci per" ThumbnailPhotoFileName="Lorem vivamus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Varius sed" ModifiedDate="12/05/2011 21:57:49" Name="Aenean pede quam" ProductID="68" ProductNumber="Aliquam quis adipiscing parturient" SellStartDate="12/05/2011 21:57:49" Size="Aliquet urna" ThumbnailPhotoFileName="Mauris nullam"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Magna vestibulum vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Porttitor sem" ProductID="16" ProductNumber="Adipiscing sit" SellStartDate="12/05/2011 21:57:49" Size="Vel parturient" ThumbnailPhotoFileName="Blandit massa commodo aptent"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum vestibulum adipiscing tincidunt auctor" ModifiedDate="12/05/2011 21:57:49" Name="Metus morbi neque conubia netus" ProductID="46" ProductNumber="Cubilia dapibus eleifend" SellStartDate="12/05/2011 21:57:49" Size="Egestas nulla" ThumbnailPhotoFileName="Cras tristique euismod"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="29" SalesOrderID="36" SalesOrderDetailID="60">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Est orci vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Proin vestibulum hac" ProductID="89" ProductNumber="Adipiscing vivamus tristique pede" SellStartDate="12/05/2011 21:57:49" Size="Quam montes quis augue dolor" ThumbnailPhotoFileName="Nostra aliquam"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Ornare fames aliquet urna" CreditCardApprovalCode="Mus commodo nec" CustomerID="27" Comment="Platea blandit ultricies leo felis" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Conubia torquent primis" SalesOrderID="77" ShipMethod="Non rutrum ipsum per vestibulum" SalesOrderNumber="Cras parturient"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="85" SalesOrderID="90" SalesOrderDetailID="20">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Justo sed venenatis lacus cubilia" ModifiedDate="12/05/2011 21:57:49" Name="Sapien duis dapibus sem sit" ProductID="15" ProductNumber="Ultrices vel vehicula" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum egestas euismod feugiat gravida" ThumbnailPhotoFileName="Nam nunc volutpat"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Adipiscing lorem semper magna iaculis" CreditCardApprovalCode="Parturient ante" CustomerID="13" Comment="Maecenas amet massa metus" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Sociis taciti" SalesOrderID="79" ShipMethod="Morbi arcu sed tempor" SalesOrderNumber="Vestibulum tellus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="14" SalesOrderID="90" SalesOrderDetailID="49">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum praesent dis" ModifiedDate="12/05/2011 21:57:49" Name="Lacinia neque tempus adipiscing laoreet" ProductID="59" ProductNumber="Natoque netus tortor vulputate" SellStartDate="12/05/2011 21:57:49" Size="Diam parturient" ThumbnailPhotoFileName="Eget turpis curabitur"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Varius est vestibulum phasellus vestibulum" CreditCardApprovalCode="Nulla adipiscing hac erat" CustomerID="41" Comment="Elit consequat enim posuere accumsan" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Aenean mauris" SalesOrderID="49" ShipMethod="Leo dignissim dictumst" SalesOrderNumber="Bibendum porta parturient vestibulum convallis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="33" SalesOrderID="98" SalesOrderDetailID="14">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Eros eleifend vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Elementum mus adipiscing" ProductID="17" ProductNumber="Potenti nibh pretium facilisi" SellStartDate="12/05/2011 21:57:49" Size="Parturient nec" ThumbnailPhotoFileName="Nisi rhoncus vestibulum nullam nisl"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Purus facilisis fermentum" CreditCardApprovalCode="Non vestibulum auctor congue" CustomerID="74" Comment="Faucibus sodales aptent" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Habitant nunc cursus adipiscing" SalesOrderID="42" ShipMethod="Velit viverra vitae orci parturient" SalesOrderNumber="Risus odio"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="51" SalesOrderID="70" SalesOrderDetailID="71">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Pede aliquam quam" ModifiedDate="12/05/2011 21:57:49" Name="Per dictum lectus class" ProductID="18" ProductNumber="Libero curae sed donec" SellStartDate="12/05/2011 21:57:49" Size="Integer inceptos" ThumbnailPhotoFileName="Ligula etiam sem vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Quisque quis vestibulum" CreditCardApprovalCode="Fringilla parturient sit interdum lobortis" CustomerID="77" Comment="Adipiscing vivamus litora" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Vestibulum habitasse vel" SalesOrderID="23" ShipMethod="Aliquet nascetur" SalesOrderNumber="Aliquam urna fusce cras duis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Lorem pharetra himenaeos commodo" ModifiedDate="12/05/2011 21:57:49" Name="Dis est" ProductID="76" ProductNumber="Lectus tristique" SellStartDate="12/05/2011 21:57:49" Size="Aliquet fringilla non habitasse sagittis" ThumbnailPhotoFileName="Tellus vestibulum">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Taciti nulla sem sit" ModifiedDate="12/05/2011 21:57:49" Name="Nunc sodales odio porta" ProductModelID="50">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Elementum vel" ModifiedDate="12/05/2011 21:57:49" ProductModelID="29" ProductDescriptionID="64"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Orci maecenas" ModifiedDate="12/05/2011 21:57:49" ProductModelID="51" ProductDescriptionID="65"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Purus risus praesent viverra" ModifiedDate="12/05/2011 21:57:49" ProductModelID="43" ProductDescriptionID="41"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Vestibulum accumsan tellus vestibulum adipiscing" ModifiedDate="12/05/2011 21:57:49" ProductModelID="16" ProductDescriptionID="41"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Bibendum nam" ModifiedDate="12/05/2011 21:57:49" ProductModelID="80" ProductDescriptionID="42"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Dictumst pede parturient eleifend velit" ModifiedDate="12/05/2011 21:57:49" Name="Tempor facilisi facilisis" ProductID="69" ProductNumber="Tempus quam" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum vestibulum" ThumbnailPhotoFileName="Sed tortor"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vitae aliquam quis" ModifiedDate="12/05/2011 21:57:49" Name="Turpis fermentum" ProductID="24" ProductNumber="Faucibus habitant" SellStartDate="12/05/2011 21:57:49" Size="Inceptos dis fringilla urna" ThumbnailPhotoFileName="Habitasse hendrerit class"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Varius est himenaeos" ModifiedDate="12/05/2011 21:57:49" Name="Imperdiet interdum cras curae" ProductID="87" ProductNumber="Malesuada duis adipiscing penatibus porttitor" SellStartDate="12/05/2011 21:57:49" Size="Hac donec lobortis aenean etiam" ThumbnailPhotoFileName="Mauris nascetur"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Leo integer" ModifiedDate="12/05/2011 21:57:49" Name="Mus nunc nullam amet" ProductID="61" ProductNumber="Parturient aptent nec ante" SellStartDate="12/05/2011 21:57:49" Size="Non auctor quisque" ThumbnailPhotoFileName="Pharetra fusce"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Congue cursus dictum per" ModifiedDate="12/05/2011 21:57:49" Name="Arcu tincidunt diam vivamus" ProductID="19" ProductNumber="Lorem morbi aliquam" SellStartDate="12/05/2011 21:57:49" Size="Sed aliquet" ThumbnailPhotoFileName="Nulla vestibulum placerat"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Magnis vestibulum" ProductCategoryID="56">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Amet morbi" ProductCategoryID="74"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Hac conubia leo nulla mus" ProductCategoryID="11"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Proin imperdiet placerat mattis" ProductCategoryID="35"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Cubilia nec malesuada augue dolor" ProductCategoryID="14"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Ante non mauris fames mollis" ProductCategoryID="45"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Arcu diam" ProductCategoryID="48"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Felis montes per dapibus" ModifiedDate="12/05/2011 21:57:49" Name="Eget ipsum elit" ProductID="28" ProductNumber="Pulvinar penatibus nostra sed ornare" SellStartDate="12/05/2011 21:57:49" Size="Adipiscing justo" ThumbnailPhotoFileName="Sagittis sem"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Lacus egestas" ModifiedDate="12/05/2011 21:57:49" Name="Porttitor lorem enim" ProductID="27" ProductNumber="Erat euismod magna feugiat platea" SellStartDate="12/05/2011 21:57:49" Size="Primis massa parturient gravida" ThumbnailPhotoFileName="Sit iaculis vestibulum eros"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Senectus vel nam tincidunt" ModifiedDate="12/05/2011 21:57:49" Name="Tristique sed lacinia" ProductID="87" ProductNumber="Dis laoreet est hac" SellStartDate="12/05/2011 21:57:49" Size="Metus rutrum leo natoque mus" ThumbnailPhotoFileName="Nibh ultricies posuere"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum nec nisi" ModifiedDate="12/05/2011 21:57:49" Name="Venenatis vulputate adipiscing" ProductID="19" ProductNumber="Curabitur phasellus parturient" SellStartDate="12/05/2011 21:57:49" Size="Consequat morbi" ThumbnailPhotoFileName="Neque sapien"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Semper sociosqu suscipit torquent" ModifiedDate="12/05/2011 21:57:49" Name="Non potenti ultrices" ProductID="47" ProductNumber="Convallis vehicula" SellStartDate="12/05/2011 21:57:49" Size="Per pretium rhoncus netus nisl" ThumbnailPhotoFileName="Sed sociis volutpat dignissim"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="64" SalesOrderID="38" SalesOrderDetailID="38">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sem pulvinar ultricies proin" ModifiedDate="12/05/2011 21:57:49" Name="Venenatis augue sagittis vulputate" ProductID="35" ProductNumber="Curabitur eget senectus elit" SellStartDate="12/05/2011 21:57:49" Size="Libero dolor" ThumbnailPhotoFileName="Sit sociosqu vestibulum enim"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Adipiscing fames felis parturient vestibulum" CreditCardApprovalCode="Erat ipsum vel nam" CustomerID="71" Comment="Vestibulum suscipit adipiscing parturient" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Blandit commodo torquent" SalesOrderID="50" ShipMethod="Conubia dis ultrices eros litora" SalesOrderNumber="Ligula sed"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="65" SalesOrderID="84" SalesOrderDetailID="54">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Luctus est vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Phasellus nibh" ProductID="78" ProductNumber="Consequat justo vestibulum adipiscing magnis" SellStartDate="12/05/2011 21:57:49" Size="Vehicula volutpat nisi" ThumbnailPhotoFileName="Mattis nisl"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Maecenas convallis cubilia dignissim" CreditCardApprovalCode="Montes praesent" CustomerID="69" Comment="Mauris mollis" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Hac nunc dapibus" SalesOrderID="10" ShipMethod="Egestas fringilla habitasse hendrerit" SalesOrderNumber="Elementum facilisis leo odio fermentum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="72" SalesOrderID="97" SalesOrderDetailID="30">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Himenaeos parturient orci euismod" ModifiedDate="12/05/2011 21:57:49" Name="Pede feugiat lacus nostra" ProductID="31" ProductNumber="Gravida lorem imperdiet ornare" SellStartDate="12/05/2011 21:57:49" Size="Quam quis magna accumsan" ThumbnailPhotoFileName="Iaculis vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Malesuada vestibulum mus massa adipiscing" CreditCardApprovalCode="Platea parturient eleifend" CustomerID="24" Comment="Bibendum dictumst nec" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Facilisi urna vestibulum metus lacinia" SalesOrderID="66" ShipMethod="Faucibus non laoreet porttitor" SalesOrderNumber="Morbi penatibus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="43" SalesOrderID="45" SalesOrderDetailID="88">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Cras vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Duis habitant neque nunc inceptos" ProductID="91" ProductNumber="Natoque interdum posuere netus" SellStartDate="12/05/2011 21:57:49" Size="Lobortis adipiscing tincidunt tristique" ThumbnailPhotoFileName="Potenti per primis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Parturient amet sed nulla ultricies" CreditCardApprovalCode="Sem pretium venenatis rhoncus adipiscing" CustomerID="86" Comment="Vestibulum ante vestibulum" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Rutrum porta parturient" SalesOrderID="29" ShipMethod="Diam sapien sodales purus curabitur" SalesOrderNumber="Vulputate sit arcu"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="39" SalesOrderID="45" SalesOrderDetailID="68">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Eget vel risus" ModifiedDate="12/05/2011 21:57:49" Name="Viverra vestibulum" ProductID="79" ProductNumber="Aliquam nascetur phasellus" SellStartDate="12/05/2011 21:57:49" Size="Consequat elit nam" ThumbnailPhotoFileName="Semper pharetra convallis sed enim"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Integer velit dis est" CreditCardApprovalCode="Hac leo" CustomerID="68" Comment="Placerat erat quisque dignissim vitae" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Elementum sociis facilisis mus taciti" SalesOrderID="54" ShipMethod="Aliquam nec" SalesOrderNumber="Fermentum eros nibh pulvinar vivamus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nisi adipiscing parturient vestibulum senectus" ModifiedDate="12/05/2011 21:57:49" Name="Per tempor class nisl" ProductID="20" ProductNumber="Porttitor commodo" SellStartDate="12/05/2011 21:57:49" Size="Nostra dis" ThumbnailPhotoFileName="Risus velit ornare pharetra vitae">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Libero dignissim habitant eget" ModifiedDate="12/05/2011 21:57:49" Name="Per sodales viverra elementum" ProductModelID="82">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Facilisis inceptos ligula elit vestibulum" ModifiedDate="12/05/2011 21:57:49" ProductModelID="58" ProductDescriptionID="40"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Interdum lobortis sed litora" ModifiedDate="12/05/2011 21:57:49" ProductModelID="43" ProductDescriptionID="19"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Sem fermentum" ModifiedDate="12/05/2011 21:57:49" ProductModelID="66" ProductDescriptionID="22"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Fringilla habitasse sit" ModifiedDate="12/05/2011 21:57:49" ProductModelID="26" ProductDescriptionID="13"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Adipiscing massa aliquam" ModifiedDate="12/05/2011 21:57:49" ProductModelID="27" ProductDescriptionID="95"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Luctus hendrerit parturient vel" ModifiedDate="12/05/2011 21:57:49" Name="Nascetur enim pharetra" ProductID="30" ProductNumber="Placerat erat metus" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum nam vestibulum" ThumbnailPhotoFileName="Morbi magnis pulvinar"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Mattis adipiscing sagittis mauris parturient" ModifiedDate="12/05/2011 21:57:49" Name="Himenaeos senectus" ProductID="49" ProductNumber="Vestibulum mollis montes neque" SellStartDate="12/05/2011 21:57:49" Size="Integer vestibulum sed netus adipiscing" ThumbnailPhotoFileName="Nostra sociosqu"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Quisque suscipit torquent" ModifiedDate="12/05/2011 21:57:49" Name="Ultrices dis ornare" ProductID="45" ProductNumber="Vehicula platea volutpat nulla" SellStartDate="12/05/2011 21:57:49" Size="Imperdiet est vivamus" ThumbnailPhotoFileName="Maecenas porta hac primis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Eros nibh" ModifiedDate="12/05/2011 21:57:49" Name="Parturient praesent accumsan nisi vestibulum" ProductID="92" ProductNumber="Bibendum purus vestibulum nisl dictumst" SellStartDate="12/05/2011 21:57:49" Size="Nunc leo adipiscing aliquam risus" ThumbnailPhotoFileName="Eleifend facilisi mus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Faucibus parturient velit habitant" ModifiedDate="12/05/2011 21:57:49" Name="Rutrum nec vitae" ProductID="92" ProductNumber="Odio class malesuada aliquet" SellStartDate="12/05/2011 21:57:49" Size="Orci vestibulum" ThumbnailPhotoFileName="Inceptos pede penatibus blandit non"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum blandit commodo nunc hendrerit" ProductCategoryID="81">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Tempus adipiscing curae parturient" ProductCategoryID="30"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Odio sociosqu conubia cubilia suscipit" ProductCategoryID="61"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Tortor dapibus" ProductCategoryID="94"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum donec" ProductCategoryID="19"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Egestas etiam" ProductCategoryID="91"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Torquent turpis himenaeos varius aenean" ProductCategoryID="32"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Imperdiet orci malesuada mauris pede" ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum adipiscing" ProductID="75" ProductNumber="Euismod sed" SellStartDate="12/05/2011 21:57:49" Size="Quam quis sem fusce urna" ThumbnailPhotoFileName="Sit penatibus ultrices porttitor"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Feugiat vehicula lorem" ModifiedDate="12/05/2011 21:57:49" Name="Volutpat morbi gravida" ProductID="36" ProductNumber="Nulla maecenas tincidunt tristique vel" SellStartDate="12/05/2011 21:57:49" Size="Nullam iaculis praesent nam" ThumbnailPhotoFileName="Ultricies sed proin dis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Parturient accumsan" ModifiedDate="12/05/2011 21:57:49" Name="Cras bibendum est aptent" ProductID="22" ProductNumber="Auctor duis congue" SellStartDate="12/05/2011 21:57:49" Size="Dictumst hac cursus" ThumbnailPhotoFileName="Dictum vestibulum"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Lacinia augue venenatis leo nunc" ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum dolor amet laoreet ante" ProductID="86" ProductNumber="Arcu natoque posuere eleifend potenti" SellStartDate="12/05/2011 21:57:49" Size="Mus lectus diam" ThumbnailPhotoFileName="Vulputate facilisi curabitur nec fames"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing felis" ModifiedDate="12/05/2011 21:57:49" Name="Ipsum phasellus justo consequat" ProductID="64" ProductNumber="Non faucibus" SellStartDate="12/05/2011 21:57:49" Size="Lacus pretium rhoncus parturient lorem" ThumbnailPhotoFileName="Magna convallis vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="69" SalesOrderID="48" SalesOrderDetailID="19">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Interdum per tincidunt" ModifiedDate="12/05/2011 21:57:49" Name="Sapien semper lobortis conubia quam" ProductID="20" ProductNumber="Tristique sociis curae vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Cubilia adipiscing nascetur" ThumbnailPhotoFileName="Donec ultricies"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Quis urna pharetra venenatis" CreditCardApprovalCode="Taciti fusce parturient vulputate dapibus" CustomerID="20" Comment="Placerat etiam" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Vestibulum cras" SalesOrderID="18" ShipMethod="Pulvinar sit" SalesOrderNumber="Sed duis vestibulum sem lorem"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="90" SalesOrderID="42" SalesOrderDetailID="21">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing nunc curabitur egestas" ModifiedDate="12/05/2011 21:57:49" Name="Vel tellus parturient" ProductID="49" ProductNumber="Euismod sagittis" SellStartDate="12/05/2011 21:57:49" Size="Feugiat vestibulum vestibulum phasellus" ThumbnailPhotoFileName="Adipiscing tempor consequat amet"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Convallis parturient senectus morbi nam" CreditCardApprovalCode="Sed nulla sociosqu" CustomerID="81" Comment="Gravida vestibulum" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Tempus dis est iaculis" SalesOrderID="97" ShipMethod="Adipiscing parturient" SalesOrderNumber="Lacinia vestibulum ante"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="71" SalesOrderID="75" SalesOrderDetailID="79">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Tortor arcu" ModifiedDate="12/05/2011 21:57:49" Name="Dignissim proin turpis vestibulum" ProductID="90" ProductNumber="Suscipit varius elementum laoreet hac" SellStartDate="12/05/2011 21:57:49" Size="Diam torquent aenean ultrices augue" ThumbnailPhotoFileName="Dolor leo"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Facilisis fermentum" CreditCardApprovalCode="Volutpat natoque nullam" CustomerID="57" Comment="Vehicula fringilla mauris habitasse" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Posuere mus aptent nec maecenas" SalesOrderID="34" ShipMethod="Congue non adipiscing praesent" SalesOrderNumber="Vestibulum auctor"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="15" SalesOrderID="56" SalesOrderDetailID="30">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Fames cursus" ModifiedDate="12/05/2011 21:57:49" Name="Dictum eget elit lectus" ProductID="46" ProductNumber="Enim libero accumsan" SellStartDate="12/05/2011 21:57:49" Size="Bibendum ligula erat eros parturient" ThumbnailPhotoFileName="Litora nibh felis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Potenti dictumst per pretium hendrerit" CreditCardApprovalCode="Mattis lacus" CustomerID="29" Comment="Luctus nisi ipsum justo magnis" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Nisl sed eleifend lorem facilisi" SalesOrderID="34" ShipMethod="Rhoncus habitant sem sodales" SalesOrderNumber="Faucibus magna massa"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="42" SalesOrderID="88" SalesOrderDetailID="13">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Metus himenaeos" ModifiedDate="12/05/2011 21:57:49" Name="Imperdiet nunc vestibulum" ProductID="88" ProductNumber="Odio orci morbi" SellStartDate="12/05/2011 21:57:49" Size="Malesuada pede penatibus neque vestibulum" ThumbnailPhotoFileName="Sit mauris adipiscing netus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Porttitor tincidunt vel tristique quam" CreditCardApprovalCode="Mollis quis nam venenatis" CustomerID="65" Comment="Viverra aliquam inceptos ultricies" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Interdum parturient lobortis montes" SalesOrderID="76" ShipMethod="Vestibulum porta urna purus cras" SalesOrderNumber="Nulla sed nascetur"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Class est" ModifiedDate="12/05/2011 21:57:49" Name="Placerat vulputate vestibulum" ProductID="97" ProductNumber="Convallis dignissim" SellStartDate="12/05/2011 21:57:49" Size="Proin sit eget vel nullam" ThumbnailPhotoFileName="Nam quisque aptent augue sed">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Posuere adipiscing proin sit nibh" ModifiedDate="12/05/2011 21:57:49" Name="Parturient vestibulum vel porttitor varius" ProductModelID="62">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Aenean vestibulum adipiscing nam" ModifiedDate="12/05/2011 21:57:49" ProductModelID="33" ProductDescriptionID="24"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Sed dis est" ModifiedDate="12/05/2011 21:57:49" ProductModelID="55" ProductDescriptionID="22"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Tincidunt parturient" ModifiedDate="12/05/2011 21:57:49" ProductModelID="70" ProductDescriptionID="26"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Vestibulum tristique inceptos mauris" ModifiedDate="12/05/2011 21:57:49" ProductModelID="73" ProductDescriptionID="96"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Hac vestibulum nisi" ModifiedDate="12/05/2011 21:57:49" ProductModelID="87" ProductDescriptionID="98"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nisl interdum potenti nunc" ModifiedDate="12/05/2011 21:57:49" Name="Augue pretium" ProductID="71" ProductNumber="Adipiscing leo" SellStartDate="12/05/2011 21:57:49" Size="Dolor lobortis" ThumbnailPhotoFileName="Nullam parturient aptent"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Odio nascetur" ModifiedDate="12/05/2011 21:57:49" Name="Ultricies rhoncus" ProductID="91" ProductNumber="Mus orci" SellStartDate="12/05/2011 21:57:49" Size="Venenatis pharetra sodales" ThumbnailPhotoFileName="Auctor congue"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nec viverra aliquam non vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum cursus fames pede" ProductID="44" ProductNumber="Adipiscing vulputate quam" SellStartDate="12/05/2011 21:57:49" Size="Integer quisque quis" ThumbnailPhotoFileName="Parturient vestibulum curabitur placerat"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Dictum pulvinar urna lectus" ModifiedDate="12/05/2011 21:57:49" Name="Sagittis cras per sed libero" ProductID="62" ProductNumber="Vestibulum sem vivamus" SellStartDate="12/05/2011 21:57:49" Size="Aliquam felis sit duis" ThumbnailPhotoFileName="Phasellus adipiscing parturient"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nunc ligula" ModifiedDate="12/05/2011 21:57:49" Name="Amet ante senectus litora luctus" ProductID="32" ProductNumber="Aliquet arcu vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum diam adipiscing consequat" ThumbnailPhotoFileName="Parturient vel"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Curabitur duis curae" ProductCategoryID="77">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Nunc platea hac" ProductCategoryID="51"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Pulvinar adipiscing" ProductCategoryID="87"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Amet parturient" ProductCategoryID="88"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Integer phasellus sagittis quisque senectus" ProductCategoryID="83"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Primis donec" ProductCategoryID="25"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Etiam vivamus aliquam sociosqu suscipit" ProductCategoryID="52"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Torquent rutrum" ModifiedDate="12/05/2011 21:57:49" Name="Fusce sapien semper" ProductID="53" ProductNumber="Consequat convallis ultrices" SellStartDate="12/05/2011 21:57:49" Size="Dignissim vestibulum leo" ThumbnailPhotoFileName="Vehicula volutpat mus maecenas sociis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Aliquet ante taciti" ModifiedDate="12/05/2011 21:57:49" Name="Lorem vestibulum" ProductID="11" ProductNumber="Blandit commodo tellus conubia" SellStartDate="12/05/2011 21:57:49" Size="Elementum adipiscing facilisis" ThumbnailPhotoFileName="Nec praesent arcu"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Diam morbi eget cubilia fermentum" ModifiedDate="12/05/2011 21:57:49" Name="Fringilla parturient accumsan" ProductID="43" ProductNumber="Vestibulum elit dapibus" SellStartDate="12/05/2011 21:57:49" Size="Non egestas bibendum per" ThumbnailPhotoFileName="Vestibulum euismod dictumst"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Habitasse hendrerit" ModifiedDate="12/05/2011 21:57:49" Name="Nulla enim tempor" ProductID="91" ProductNumber="Eleifend sed adipiscing parturient" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum feugiat himenaeos sem" ThumbnailPhotoFileName="Facilisi erat"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Faucibus imperdiet tempus tortor" ModifiedDate="12/05/2011 21:57:49" Name="Gravida malesuada habitant" ProductID="68" ProductNumber="Iaculis lacinia" SellStartDate="12/05/2011 21:57:49" Size="Laoreet eros turpis" ThumbnailPhotoFileName="Natoque vestibulum penatibus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="45" SalesOrderID="39" SalesOrderDetailID="83">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nam vestibulum vestibulum adipiscing elementum" ModifiedDate="12/05/2011 21:57:49" Name="Sed magnis dis mattis eget" ProductID="76" ProductNumber="Parturient mauris mollis" SellStartDate="12/05/2011 21:57:49" Size="Ipsum vestibulum est" ThumbnailPhotoFileName="Sociosqu elit enim"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Montes blandit vestibulum" CreditCardApprovalCode="Torquent erat ultrices" CustomerID="23" Comment="Justo suscipit facilisis hac nostra" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Vehicula lacus lorem magna volutpat" SalesOrderID="33" ShipMethod="Massa maecenas eros praesent" SalesOrderNumber="Leo mus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="54" SalesOrderID="79" SalesOrderDetailID="16">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Commodo adipiscing" ModifiedDate="12/05/2011 21:57:49" Name="Nibh conubia fermentum cubilia dapibus" ProductID="20" ProductNumber="Metus fringilla nisi" SellStartDate="12/05/2011 21:57:49" Size="Accumsan parturient morbi" ThumbnailPhotoFileName="Neque nisl bibendum netus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Nec dictumst egestas habitasse" CreditCardApprovalCode="Eleifend nunc non" CustomerID="55" Comment="Vestibulum hendrerit euismod" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Facilisi vestibulum per ornare" SalesOrderID="36" ShipMethod="Himenaeos parturient" SalesOrderNumber="Feugiat adipiscing"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="74" SalesOrderID="31" SalesOrderDetailID="13">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sed sem" ModifiedDate="12/05/2011 21:57:49" Name="Sit vel gravida" ProductID="81" ProductNumber="Vestibulum platea nulla primis" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum porta" ThumbnailPhotoFileName="Adipiscing nam iaculis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Rutrum imperdiet" CreditCardApprovalCode="Vestibulum habitant sed inceptos" CustomerID="23" Comment="Odio parturient faucibus" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Vestibulum interdum sapien malesuada purus" SalesOrderID="62" ShipMethod="Adipiscing lacinia semper dis laoreet" SalesOrderNumber="Penatibus lobortis orci"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="41" SalesOrderID="48" SalesOrderDetailID="65">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Pede est quam" ModifiedDate="12/05/2011 21:57:49" Name="Natoque sociis posuere" ProductID="72" ProductNumber="Risus potenti" SellStartDate="12/05/2011 21:57:49" Size="Velit vitae hac quis" ThumbnailPhotoFileName="Pretium class"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Urna nascetur curae porttitor cras" CreditCardApprovalCode="Mus nec non rhoncus tincidunt" CustomerID="29" Comment="Parturient donec leo taciti" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Tristique tellus etiam pharetra tempor" SalesOrderID="58" ShipMethod="Per viverra nunc" SalesOrderNumber="Ultricies sodales duis venenatis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="92" SalesOrderID="21" SalesOrderDetailID="78">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vulputate amet" ModifiedDate="12/05/2011 21:57:49" Name="Placerat tempus tortor pulvinar curabitur" ProductID="15" ProductNumber="Turpis varius aenean" SellStartDate="12/05/2011 21:57:49" Size="Aliquam sagittis ante" ThumbnailPhotoFileName="Arcu fusce"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Diam senectus sed mauris" CreditCardApprovalCode="Integer sociosqu" CustomerID="88" Comment="Lorem vestibulum" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Phasellus vestibulum morbi" SalesOrderID="10" ShipMethod="Elementum nulla" SalesOrderNumber="Consequat convallis dignissim sem"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Dolor fames" ModifiedDate="12/05/2011 21:57:49" Name="Facilisis vivamus auctor elit congue" ProductID="15" ProductNumber="Adipiscing parturient ultrices sed" SellStartDate="12/05/2011 21:57:49" Size="Leo vestibulum adipiscing torquent" ThumbnailPhotoFileName="Porttitor tincidunt mus ultrices vehicula">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Vestibulum velit adipiscing accumsan" ModifiedDate="12/05/2011 21:57:49" Name="Vitae tincidunt" ProductModelID="10">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Duis est class parturient" ModifiedDate="12/05/2011 21:57:49" ProductModelID="91" ProductDescriptionID="89"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Pretium semper curae hac" ModifiedDate="12/05/2011 21:57:49" ProductModelID="99" ProductDescriptionID="24"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Vestibulum bibendum" ModifiedDate="12/05/2011 21:57:49" ProductModelID="74" ProductDescriptionID="95"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Dictumst donec etiam rhoncus fusce" ModifiedDate="12/05/2011 21:57:49" ProductModelID="69" ProductDescriptionID="19"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Nunc sodales amet" ModifiedDate="12/05/2011 21:57:49" ProductModelID="31" ProductDescriptionID="71"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum sociis" ModifiedDate="12/05/2011 21:57:49" Name="Viverra tristique" ProductID="66" ProductNumber="Leo lorem morbi taciti" SellStartDate="12/05/2011 21:57:49" Size="Tellus tempor ante mus eleifend" ThumbnailPhotoFileName="Nulla facilisi faucibus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Habitant arcu ultricies inceptos tempus" ModifiedDate="12/05/2011 21:57:49" Name="Diam tortor turpis proin" ProductID="56" ProductNumber="Interdum adipiscing venenatis" SellStartDate="12/05/2011 21:57:49" Size="Lobortis nascetur pharetra placerat" ThumbnailPhotoFileName="Vulputate pulvinar curabitur"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Phasellus eget varius parturient vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Aliquam elit nec consequat convallis" ProductID="87" ProductNumber="Dignissim vestibulum augue" SellStartDate="12/05/2011 21:57:49" Size="Sagittis integer" ThumbnailPhotoFileName="Elementum non"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Aenean facilisis" ModifiedDate="12/05/2011 21:57:49" Name="Fermentum fringilla per enim" ProductID="44" ProductNumber="Quisque dolor fames vivamus senectus" SellStartDate="12/05/2011 21:57:49" Size="Sociosqu habitasse mauris" ThumbnailPhotoFileName="Felis adipiscing"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Aliquam parturient nullam ipsum" ModifiedDate="12/05/2011 21:57:49" Name="Erat hendrerit eros justo" ProductID="17" ProductNumber="Nibh aliquet blandit commodo suscipit" SellStartDate="12/05/2011 21:57:49" Size="Conubia nisi nisl vestibulum" ThumbnailPhotoFileName="Torquent lacus vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Felis aliquam" ProductCategoryID="18">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Suscipit aliquet enim erat eros" ProductCategoryID="34"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Cursus fermentum dictum nibh" ProductCategoryID="17"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Fringilla dis" ProductCategoryID="25"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Torquent lectus" ProductCategoryID="30"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Blandit ipsum libero" ProductCategoryID="35"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Est hac" ProductCategoryID="98"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nisi habitasse" ModifiedDate="12/05/2011 21:57:49" Name="Commodo ligula leo mus" ProductID="54" ProductNumber="Hendrerit justo litora nec lacus" SellStartDate="12/05/2011 21:57:49" Size="Himenaeos ultrices" ThumbnailPhotoFileName="Lorem luctus conubia nisl imperdiet"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nunc adipiscing parturient vehicula" ModifiedDate="12/05/2011 21:57:49" Name="Cubilia dapibus magnis" ProductID="74" ProductNumber="Egestas magna mattis vestibulum volutpat" SellStartDate="12/05/2011 21:57:49" Size="Euismod odio mauris non massa" ThumbnailPhotoFileName="Feugiat vestibulum"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Orci mollis per" ModifiedDate="12/05/2011 21:57:49" Name="Metus adipiscing sed malesuada" ProductID="32" ProductNumber="Pede morbi" SellStartDate="12/05/2011 21:57:49" Size="Quam maecenas neque parturient montes" ThumbnailPhotoFileName="Gravida netus sem quis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Iaculis nulla" ModifiedDate="12/05/2011 21:57:49" Name="Sit vestibulum" ProductID="14" ProductNumber="Nostra penatibus ornare platea praesent" SellStartDate="12/05/2011 21:57:49" Size="Primis urna rutrum lacinia" ThumbnailPhotoFileName="Vel vestibulum laoreet adipiscing porta"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nam natoque" ModifiedDate="12/05/2011 21:57:49" Name="Parturient posuere porttitor" ProductID="78" ProductNumber="Sapien cras" SellStartDate="12/05/2011 21:57:49" Size="Purus potenti sed" ThumbnailPhotoFileName="Vestibulum risus dis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="61" SalesOrderID="30" SalesOrderDetailID="31">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum cubilia dapibus vestibulum aptent" ModifiedDate="12/05/2011 21:57:49" Name="Lorem sem magna" ProductID="41" ProductNumber="Auctor adipiscing himenaeos vehicula" SellStartDate="12/05/2011 21:57:49" Size="Sit egestas imperdiet euismod" ThumbnailPhotoFileName="Volutpat congue maecenas"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Cursus feugiat vel praesent" CreditCardApprovalCode="Gravida penatibus nunc nam massa" CustomerID="54" Comment="Malesuada dictum" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Sed iaculis odio lectus" SalesOrderID="95" ShipMethod="Tincidunt ligula" SalesOrderNumber="Libero lacinia orci pede porttitor"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="64" SalesOrderID="14" SalesOrderDetailID="60">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Quam dis accumsan tristique" ModifiedDate="12/05/2011 21:57:49" Name="Litora est metus ultricies" ProductID="28" ProductNumber="Bibendum morbi luctus" SellStartDate="12/05/2011 21:57:49" Size="Neque netus magnis" ThumbnailPhotoFileName="Venenatis parturient"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Vulputate laoreet" CreditCardApprovalCode="Adipiscing urna posuere dictumst" CustomerID="49" Comment="Vestibulum natoque vestibulum nulla quis" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Cras porta" SalesOrderID="14" ShipMethod="Eleifend curabitur" SalesOrderNumber="Mattis mauris"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="57" SalesOrderID="23" SalesOrderDetailID="50">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Parturient purus vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Vestibulum adipiscing" ProductID="18" ProductNumber="Hac mollis" SellStartDate="12/05/2011 21:57:49" Size="Montes nostra ornare parturient facilisi" ThumbnailPhotoFileName="Duis vestibulum vestibulum potenti faucibus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Risus pretium adipiscing nunc rhoncus" CreditCardApprovalCode="Platea amet primis" CustomerID="37" Comment="Parturient vestibulum phasellus habitant vestibulum" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Velit adipiscing consequat" SalesOrderID="86" ShipMethod="Vestibulum viverra rutrum mus" SalesOrderNumber="Sodales vitae ante parturient leo"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="58" SalesOrderID="93" SalesOrderDetailID="24">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Aliquam convallis arcu class vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Integer inceptos interdum quisque nec" ProductID="57" ProductNumber="Dignissim lobortis" SellStartDate="12/05/2011 21:57:49" Size="Nascetur sapien curae non per" ThumbnailPhotoFileName="Donec diam sed etiam adipiscing"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Sem sit" CreditCardApprovalCode="Placerat facilisis vivamus aliquam semper" CustomerID="77" Comment="Elementum pharetra" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Vel aliquet nam" SalesOrderID="79" ShipMethod="Blandit sagittis" SalesOrderNumber="Parturient eget pulvinar"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="12" SalesOrderID="63" SalesOrderDetailID="65">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Fusce fermentum sociis vestibulum elit" ModifiedDate="12/05/2011 21:57:49" Name="Sed dis fringilla vestibulum habitasse" ProductID="36" ProductNumber="Adipiscing parturient" SellStartDate="12/05/2011 21:57:49" Size="Commodo taciti" ThumbnailPhotoFileName="Lorem hendrerit senectus sociosqu enim"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Tellus morbi vestibulum" CreditCardApprovalCode="Suscipit imperdiet erat conubia tempor" CustomerID="45" Comment="Himenaeos est hac" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Eros nulla" SalesOrderID="93" ShipMethod="Malesuada proin penatibus" SalesOrderNumber="Cubilia dapibus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Tristique volutpat nibh augue" ModifiedDate="12/05/2011 21:57:49" Name="Nisi tempus egestas nec" ProductID="64" ProductNumber="Vestibulum tempor" SellStartDate="12/05/2011 21:57:49" Size="Duis interdum nunc" ThumbnailPhotoFileName="Sit vestibulum nostra integer ornare">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Purus est parturient" ModifiedDate="12/05/2011 21:57:49" Name="Risus vestibulum velit" ProductModelID="60">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Hac vitae himenaeos imperdiet" ModifiedDate="12/05/2011 21:57:49" ProductModelID="69" ProductDescriptionID="90"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Mauris potenti leo" ModifiedDate="12/05/2011 21:57:49" ProductModelID="22" ProductDescriptionID="11"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Mus pretium mollis" ModifiedDate="12/05/2011 21:57:49" ProductModelID="93" ProductDescriptionID="31"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Rhoncus habitant sodales" ModifiedDate="12/05/2011 21:57:49" ProductModelID="42" ProductDescriptionID="80"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Viverra vestibulum aliquam" ModifiedDate="12/05/2011 21:57:49" ProductModelID="85" ProductDescriptionID="39"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing parturient montes vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Nibh inceptos interdum lobortis nec" ProductID="93" ProductNumber="Integer non class nascetur" SellStartDate="12/05/2011 21:57:49" Size="Pharetra placerat vestibulum" ThumbnailPhotoFileName="Curae malesuada nisi adipiscing"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nostra pulvinar donec etiam" ModifiedDate="12/05/2011 21:57:49" Name="Ornare sagittis senectus" ProductID="64" ProductNumber="Sociosqu per" SellStartDate="12/05/2011 21:57:49" Size="Platea parturient" ThumbnailPhotoFileName="Primis vestibulum suscipit sed"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sem penatibus vestibulum nisl fusce" ModifiedDate="12/05/2011 21:57:49" Name="Torquent sit ultrices porttitor" ProductID="82" ProductNumber="Rutrum tincidunt sapien adipiscing vehicula" SellStartDate="12/05/2011 21:57:49" Size="Volutpat semper maecenas lorem" ThumbnailPhotoFileName="Vel nunc morbi"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Praesent nam" ModifiedDate="12/05/2011 21:57:49" Name="Quisque sociis parturient vestibulum accumsan" ProductID="38" ProductNumber="Bibendum dictumst" SellStartDate="12/05/2011 21:57:49" Size="Eleifend nulla sed" ThumbnailPhotoFileName="Vivamus facilisi dis proin"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Faucibus vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Odio taciti adipiscing" ProductID="28" ProductNumber="Tellus parturient habitant" SellStartDate="12/05/2011 21:57:49" Size="Augue tristique est dolor" ThumbnailPhotoFileName="Vestibulum orci hac"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Tortor dolor parturient" ProductCategoryID="82">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Turpis ultricies varius fames vestibulum" ProductCategoryID="78"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Felis aenean euismod" ProductCategoryID="21"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Feugiat ipsum" ProductCategoryID="73"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Non gravida" ProductCategoryID="46"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Per vestibulum maecenas venenatis" ProductCategoryID="42"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Nisl praesent" ProductCategoryID="71"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Mauris nunc" ModifiedDate="12/05/2011 21:57:49" Name="Vulputate justo lacus adipiscing odio" ProductID="34" ProductNumber="Parturient orci pede" SellStartDate="12/05/2011 21:57:49" Size="Curabitur accumsan" ThumbnailPhotoFileName="Iaculis quam"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nullam lorem aptent" ModifiedDate="12/05/2011 21:57:49" Name="Quis auctor bibendum phasellus congue" ProductID="20" ProductNumber="Magna cursus sed massa" SellStartDate="12/05/2011 21:57:49" Size="Consequat sem sit" ThumbnailPhotoFileName="Dictum lacinia laoreet lectus metus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum urna cras vel" ModifiedDate="12/05/2011 21:57:49" Name="Libero natoque duis" ProductID="79" ProductNumber="Vestibulum nunc" SellStartDate="12/05/2011 21:57:49" Size="Amet convallis adipiscing" ThumbnailPhotoFileName="Dignissim elementum ante facilisis"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Ligula posuere morbi litora" ModifiedDate="12/05/2011 21:57:49" Name="Parturient vestibulum fermentum neque netus" ProductID="71" ProductNumber="Nam sed dis" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum dictumst" ThumbnailPhotoFileName="Eleifend arcu diam"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Eget elit nulla enim luctus" ModifiedDate="12/05/2011 21:57:49" Name="Facilisi fringilla magnis" ProductID="37" ProductNumber="Habitasse porta erat" SellStartDate="12/05/2011 21:57:49" Size="Faucibus eros mattis" ThumbnailPhotoFileName="Adipiscing hendrerit"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="65" SalesOrderID="70" SalesOrderDetailID="82">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Inceptos tempus ultricies tortor interdum" ModifiedDate="12/05/2011 21:57:49" Name="Fames venenatis felis leo pede" ProductID="93" ProductNumber="Lobortis turpis ipsum justo mus" SellStartDate="12/05/2011 21:57:49" Size="Nascetur quam" ThumbnailPhotoFileName="Adipiscing varius"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Vulputate curabitur lacus quis urna" CreditCardApprovalCode="Vestibulum aenean pharetra" CustomerID="70" Comment="Parturient cras nec" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Mauris placerat nullam aliquam phasellus" SalesOrderID="96" ShipMethod="Non aliquet magna per" SalesOrderNumber="Duis lorem vestibulum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="41" SalesOrderID="55" SalesOrderDetailID="71">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Adipiscing nunc" ModifiedDate="12/05/2011 21:57:49" Name="Amet ante" ProductID="93" ProductNumber="Parturient blandit vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Pulvinar consequat" ThumbnailPhotoFileName="Arcu commodo sed sagittis aptent"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Diam conubia" CreditCardApprovalCode="Eget vestibulum adipiscing massa" CustomerID="24" Comment="Auctor cubilia" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Senectus sem sit convallis dapibus" SalesOrderID="79" ShipMethod="Vestibulum dignissim cursus" SalesOrderNumber="Parturient congue metus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="13" SalesOrderID="22" SalesOrderDetailID="77">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sociosqu dictum vel vestibulum suscipit" ModifiedDate="12/05/2011 21:57:49" Name="Elit egestas" ProductID="62" ProductNumber="Nam torquent adipiscing morbi" SellStartDate="12/05/2011 21:57:49" Size="Sed neque" ThumbnailPhotoFileName="Elementum lectus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Parturient ultrices libero euismod" CreditCardApprovalCode="Enim vehicula feugiat" CustomerID="87" Comment="Netus ligula" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Erat eros nibh" SalesOrderID="87" ShipMethod="Volutpat gravida" SalesOrderNumber="Dis vestibulum nisi litora nisl"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="13" SalesOrderID="24" SalesOrderDetailID="66">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Est vestibulum nunc" ModifiedDate="12/05/2011 21:57:49" Name="Maecenas facilisis nulla praesent" ProductID="28" ProductNumber="Adipiscing odio porta" SellStartDate="12/05/2011 21:57:49" Size="Purus parturient accumsan" ThumbnailPhotoFileName="Vestibulum hac"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Leo bibendum vestibulum" CreditCardApprovalCode="Laoreet eleifend" CustomerID="10" Comment="Risus iaculis mus lacinia dictumst" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Natoque nec posuere" SalesOrderID="53" ShipMethod="Fermentum fringilla" SalesOrderNumber="Non luctus magnis per mattis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="83" SalesOrderID="53" SalesOrderDetailID="45">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Mauris habitasse sed facilisi" ModifiedDate="12/05/2011 21:57:49" Name="Velit faucibus potenti adipiscing vitae" ProductID="99" ProductNumber="Orci class mollis pede parturient" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum pretium" ThumbnailPhotoFileName="Rhoncus vestibulum quam"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Sodales viverra" CreditCardApprovalCode="Adipiscing urna" CustomerID="82" Comment="Quis habitant" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Curae cras" SalesOrderID="87" ShipMethod="Donec montes vestibulum sem aliquam" SalesOrderNumber="Hendrerit inceptos parturient"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+		<CrazyAzurePhoneProject_AdventureWorks:Product Color="Platea primis amet himenaeos" ModifiedDate="12/05/2011 21:57:49" Name="Quisque vel adipiscing imperdiet" ProductID="39" ProductNumber="Non nisl torquent" SellStartDate="12/05/2011 21:57:49" Size="Mus euismod convallis feugiat" ThumbnailPhotoFileName="Gravida iaculis">
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ListPrice>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductModel CatalogDescription="Malesuada parturient metus congue" ModifiedDate="12/05/2011 21:57:49" Name="Morbi pede neque natoque" ProductModelID="97">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Quam penatibus vestibulum" ModifiedDate="12/05/2011 21:57:49" ProductModelID="48" ProductDescriptionID="52"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Vestibulum netus quis urna cursus" ModifiedDate="12/05/2011 21:57:49" ProductModelID="39" ProductDescriptionID="28"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Porttitor tincidunt nam" ModifiedDate="12/05/2011 21:57:49" ProductModelID="97" ProductDescriptionID="61"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Cras adipiscing" ModifiedDate="12/05/2011 21:57:49" ProductModelID="51" ProductDescriptionID="16"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductModelProductDescription Culture="Parturient duis sed" ModifiedDate="12/05/2011 21:57:49" ProductModelID="34" ProductDescriptionID="63"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.ProductModelProductDescriptions>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Nunc dis posuere" ModifiedDate="12/05/2011 21:57:49" Name="Est amet eleifend nulla facilisi" ProductID="61" ProductNumber="Faucibus tristique potenti porta pretium" SellStartDate="12/05/2011 21:57:49" Size="Purus dictum" ThumbnailPhotoFileName="Lectus ultricies risus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Velit vestibulum vitae venenatis" ModifiedDate="12/05/2011 21:57:49" Name="Vulputate habitant class ante" ProductID="92" ProductNumber="Hac inceptos" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum leo" ThumbnailPhotoFileName="Arcu adipiscing"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Curabitur curae donec etiam rhoncus" ModifiedDate="12/05/2011 21:57:49" Name="Diam fusce sodales libero eget" ProductID="21" ProductNumber="Elit ligula interdum parturient vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Viverra litora" ThumbnailPhotoFileName="Lobortis luctus aliquam nascetur enim"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Phasellus lorem erat vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Consequat mus integer quisque pharetra" ProductID="68" ProductNumber="Placerat pulvinar sagittis magnis morbi" SellStartDate="12/05/2011 21:57:49" Size="Adipiscing eros convallis" ThumbnailPhotoFileName="Vivamus parturient senectus"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Mattis nec sociosqu" ModifiedDate="12/05/2011 21:57:49" Name="Mauris vestibulum nulla" ProductID="70" ProductNumber="Nibh aliquam proin augue" SellStartDate="12/05/2011 21:57:49" Size="Aliquet blandit nisi" ThumbnailPhotoFileName="Suscipit mollis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductModel.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductModel>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductModel>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+				<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Ante arcu" ProductCategoryID="88">
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Diam etiam eget nam elit" ProductCategoryID="78"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Rutrum parturient sapien lobortis fusce" ProductCategoryID="89"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Lorem malesuada penatibus" ProductCategoryID="53"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Semper sed morbi" ProductCategoryID="16"/>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Nascetur porttitor sociis tincidunt nulla" ProductCategoryID="27"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory1>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+						<CrazyAzurePhoneProject_AdventureWorks:ProductCategory ModifiedDate="12/05/2011 21:57:49" Name="Dis est tristique enim" ProductCategoryID="24"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.ProductCategory2>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Taciti vestibulum tellus vivamus pharetra" ModifiedDate="12/05/2011 21:57:49" Name="Placerat hac leo erat pulvinar" ProductID="66" ProductNumber="Ultricies tempor eros aliquam" SellStartDate="12/05/2011 21:57:49" Size="Venenatis mus tempus vulputate" ThumbnailPhotoFileName="Nibh nec aliquet blandit"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Sagittis senectus" ModifiedDate="12/05/2011 21:57:49" Name="Nisi tortor non turpis proin" ProductID="67" ProductNumber="Vestibulum per augue varius adipiscing" SellStartDate="12/05/2011 21:57:49" Size="Sociosqu aenean commodo curabitur" ThumbnailPhotoFileName="Parturient conubia nisl phasellus cubilia"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Suscipit dolor vestibulum" ModifiedDate="12/05/2011 21:57:49" Name="Dapibus fames egestas torquent consequat" ProductID="89" ProductNumber="Felis convallis ultrices vehicula" SellStartDate="12/05/2011 21:57:49" Size="Vestibulum ipsum volutpat mauris justo" ThumbnailPhotoFileName="Maecenas praesent"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Accumsan lacus bibendum nullam adipiscing" ModifiedDate="12/05/2011 21:57:49" Name="Nunc parturient lorem" ProductID="96" ProductNumber="Euismod feugiat dignissim gravida elementum" SellStartDate="12/05/2011 21:57:49" Size="Facilisis sed" ThumbnailPhotoFileName="Vestibulum aptent magna"/>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Fermentum fringilla habitasse dictumst sem" ModifiedDate="12/05/2011 21:57:49" Name="Hendrerit iaculis himenaeos odio" ProductID="38" ProductNumber="Imperdiet orci vestibulum auctor" SellStartDate="12/05/2011 21:57:49" Size="Lacinia adipiscing" ThumbnailPhotoFileName="Laoreet sit massa vel"/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.Products>
+					<CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:ProductCategory.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:ProductCategory>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ProductCategory>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="34" SalesOrderID="45" SalesOrderDetailID="21">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Dolor nunc" ModifiedDate="12/05/2011 21:57:49" Name="Per vestibulum commodo conubia dignissim" ProductID="23" ProductNumber="Adipiscing montes ultrices cubilia" SellStartDate="12/05/2011 21:57:49" Size="Fames parturient elementum vehicula" ThumbnailPhotoFileName="Vestibulum volutpat facilisis dapibus fermentum"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Vestibulum nostra adipiscing" CreditCardApprovalCode="Sem platea" CustomerID="53" Comment="Parturient felis ornare sed" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Fringilla habitasse vestibulum" SalesOrderID="28" ShipMethod="Praesent egestas euismod orci feugiat" SalesOrderNumber="Sit odio ipsum maecenas"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="11" SalesOrderID="99" SalesOrderDetailID="55">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Vestibulum adipiscing" ModifiedDate="12/05/2011 21:57:49" Name="Primis vel nam rutrum" ProductID="89" ProductNumber="Accumsan parturient justo vestibulum" SellStartDate="12/05/2011 21:57:49" Size="Bibendum sapien lacus" ThumbnailPhotoFileName="Dictumst hendrerit"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Lorem sed" CreditCardApprovalCode="Gravida iaculis vestibulum lacinia magna" CustomerID="86" Comment="Eleifend dis semper himenaeos" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Imperdiet laoreet adipiscing massa" SalesOrderID="62" ShipMethod="Sociis pede parturient natoque" SalesOrderNumber="Est metus"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="54" SalesOrderID="70" SalesOrderDetailID="39">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Taciti vestibulum quam hac morbi" ModifiedDate="12/05/2011 21:57:49" Name="Leo quis vestibulum mus tellus" ProductID="30" ProductNumber="Facilisi tempor tempus tortor" SellStartDate="12/05/2011 21:57:49" Size="Posuere adipiscing" ThumbnailPhotoFileName="Turpis faucibus malesuada varius neque"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Potenti aenean penatibus habitant nec" CreditCardApprovalCode="Porttitor mauris per urna inceptos" CustomerID="16" Comment="Non parturient" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Netus tincidunt" SalesOrderID="38" ShipMethod="Interdum aptent lobortis tristique sem" SalesOrderNumber="Cras nullam sed duis"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="71" SalesOrderID="30" SalesOrderDetailID="61">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Pretium nulla" ModifiedDate="12/05/2011 21:57:49" Name="Nunc rhoncus ultricies amet" ProductID="55" ProductNumber="Venenatis vulputate auctor sodales" SellStartDate="12/05/2011 21:57:49" Size="Porta vestibulum viverra" ThumbnailPhotoFileName="Congue purus ante sit"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Arcu vel nascetur" CreditCardApprovalCode="Integer dictum" CustomerID="65" Comment="Cursus aliquam curabitur diam" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="True" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Quisque risus vivamus eget nam" SalesOrderID="16" ShipMethod="Lectus vestibulum" SalesOrderNumber="Aliquam pharetra velit elit"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+				<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail ModifiedDate="12/05/2011 21:57:49" ProductID="46" SalesOrderID="54" SalesOrderDetailID="36">
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.LineTotal>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+						<System:Int16/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.OrderQty>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+						<CrazyAzurePhoneProject_AdventureWorks:Product Color="Aliquet enim placerat blandit" ModifiedDate="12/05/2011 21:57:49" Name="Erat phasellus eros sed" ProductID="89" ProductNumber="Adipiscing commodo parturient" SellStartDate="12/05/2011 21:57:49" Size="Pulvinar vestibulum conubia nibh sagittis" ThumbnailPhotoFileName="Nisi senectus dis libero est"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.Product>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+						<CrazyAzurePhoneProject_AdventureWorks:SalesOrderHeader AccountNumber="Vestibulum ligula cubilia" CreditCardApprovalCode="Litora sociosqu class curae nunc" CustomerID="35" Comment="Dapibus vitae nisl" DueDate="12/05/2011 21:57:49" ModifiedDate="12/05/2011 21:57:49" OnlineOrderFlag="False" OrderDate="12/05/2011 21:57:49" PurchaseOrderNumber="Adipiscing donec egestas" SalesOrderID="29" ShipMethod="Consequat suscipit" SalesOrderNumber="Hac etiam leo odio"/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.SalesOrderHeader>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPrice>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+						<System:Decimal/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.UnitPriceDiscount>
+					<CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+						<System:Guid/>
+					</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail.rowguid>
+				</CrazyAzurePhoneProject_AdventureWorks:SalesOrderDetail>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.SalesOrderDetails>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+				<System:Decimal/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.StandardCost>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+				<System:Byte/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.ThumbNailPhoto>
+			<CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+				<System:Guid/>
+			</CrazyAzurePhoneProject_AdventureWorks:Product.rowguid>
+		</CrazyAzurePhoneProject_AdventureWorks:Product>
+	</CrazyAzurePhoneProject:PageData.Products>
+</CrazyAzurePhoneProject:PageData>
